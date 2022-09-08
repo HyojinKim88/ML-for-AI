@@ -1,3 +1,5 @@
 # ML-for-AI
 
-## my name is hyojin.
+## My name is Hyojin.
+### I'm 4th grade.
+### My major is statistics.
